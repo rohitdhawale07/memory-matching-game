@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Memory Matching Game
+## Hosted Link:- https://memory-matching-game-lyart.vercel.app/
+
+## Features
+
+- Classic memory matching gameplay.
+- Responsive design for various screen sizes.
+- Simple and intuitive user interface.
+
+## How to Play
+
+- The game consists of a grid of face-down cards.
+- Click on a card to reveal its image.
+- Click on another card to try and find its match.
+- If the two cards match, they remain face-up; otherwise, they are flipped face-down again.
+- The game continues until all matching pairs are found.
+
+## Game Rules
+
+- The game ends when all pairs are matched, or the maximum number of moves is reached.
+- Celebratory confetti animation triggers on winning the game.
+
+  ## Technologies Used
+
+- React
+- TypeScript
+- Tailwind CSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
